@@ -3,7 +3,7 @@ title: "バレンタインの夜、AIエージェント2体が並行でコード
 emoji: "🦅"
 type: "tech"
 topics: ["AI", "エージェント", "MCP", "マルチエージェント", "ClaudeCode"]
-published: false
+published: true
 ---
 
 ## 土曜の夜のセッション
