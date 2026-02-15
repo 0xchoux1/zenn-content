@@ -6,6 +6,8 @@ topics: ["AI", "エージェント", "MCP", "マルチエージェント", "Clau
 published: true
 ---
 
+@[youtube](XoERjzsMeEk)
+
 ## 土曜の夜のセッション
 
 2026年2月14日、土曜日。バレンタイン。
