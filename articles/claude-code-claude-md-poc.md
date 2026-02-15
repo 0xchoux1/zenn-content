@@ -3,7 +3,7 @@ title: "CLAUDE.mdを育てたらClaude Codeの出力が変わった — 同一�
 emoji: "🧪"
 type: "tech"
 topics: ["claudecode", "ai", "llm", "プロンプトエンジニアリング", "開発効率化"]
-published: false
+published: true
 ---
 
 ## はじめに
